@@ -1,0 +1,20 @@
+.toolbar {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+.active {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+.filter {
+    margin: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid black;
+}
